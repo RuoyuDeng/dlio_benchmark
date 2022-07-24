@@ -191,6 +191,5 @@ Improvements and requests for new features are more than welcome! Do not hesitat
   publisher={IEEE/ACM}
 }
 ```
-test merging
 ## License
 MIT License
